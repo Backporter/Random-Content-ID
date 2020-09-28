@@ -6,7 +6,7 @@ This will generate a random content ID, manly useful for the PS4.
 
 This will generate a random Content-ID for games/homebrew/themes
 
-`=================================================================================================================`
+`===============================================================================================================`
 
 Q: HOW DO I USE THIS?!??!
 
