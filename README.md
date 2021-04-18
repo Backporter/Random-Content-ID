@@ -12,7 +12,7 @@ Q: HOW DO I USE THIS?!??!
 
 A: open it, press generate and copy the content ID into orbis-pub-sfo.exe add the name of the applacation in title tex than save the sfo in sce_sys than open orbis-pub-gen.exe add it to the content ID under settings and done.
 
-Q: Will this work on 7.xx
+Q: Will this work on retail firmware?
 
 A: No
 
